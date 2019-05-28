@@ -3,6 +3,10 @@ A tank game made using Processing Python Mode.
 
 Game logic by Arjo, Map generation by Renze
 
+![screenshot](https://github.com/ArjoNagelhout/processing-tank-game/blob/master/screenshot.png?raw=true)
+
+[YouTube demo](https://youtu.be/_eYRKpKkui8)
+
 # Features
 
 ## Destructible terrain
